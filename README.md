@@ -52,4 +52,4 @@ Atualmente, busco uma oportunidade de **estágio na área de TI**, onde eu possa
 ---
 
 📫 **Vamos conversar?**  
-Me chama por aqui ou entre em contato pelo LinkedIn (adicione o link, se quiser).
+Me chama por aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/nicolas-teixeira-jeremias-a261b0275/)
