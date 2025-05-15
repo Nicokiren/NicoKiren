@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nicolas!
 
-<!--
-**Nicokiren/NicoKiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de **Engenharia de Software** na **Faculdade Positivo** (previsão de conclusão: dezembro de 2026) e trabalho atualmente na **Alliance Home Care**, unindo tecnologia e organização para melhorar processos no setor de saúde domiciliar.
 
-Here are some ideas to get you started:
+Com uma trajetória profissional diversa — de atendimento em hamburgueria e pizzaria até suporte administrativo e técnico — aprendi a importância da **comunicação assertiva**, **organização** e **resiliência** em ambientes dinâmicos. Hoje, aplico esses aprendizados no universo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e habilidades
+
+- **Linguagens**:  
+  🟢 C# (iniciante)  
+  🟡 Java (iniciante)  
+  🟠 JavaScript (básico)  
+  🔵 VBA (avançado)
+
+- **Ferramentas e plataformas**:  
+  📊 Power BI (intermediário)  
+  📈 Excel (avançado)  
+  🧩 SharePoint  
+  🧰 Git & GitHub  
+
+- **Experiência com**:  
+  - Backend básico  
+  - Automação de planilhas e dashboards  
+  - Organização de documentos em ambientes corporativos  
+  - Montagem e manutenção de hardware
+
+- **Idiomas**:  
+  🇺🇸 Inglês fluente  
+  🇯🇵 Japonês (iniciante)
+
+## 🌱 Atualmente aprendendo
+
+- Estrutura de dados e algoritmos  
+- Desenvolvimento backend com foco em boas práticas  
+- Integrações com APIs e automações voltadas ao ambiente corporativo  
+
+## 🧠 Projetos e interesses
+
+Gosto de construir soluções práticas para o dia a dia, como:
+
+- Sistemas de estoque para home care com controle de acesso
+- Automatizações em SharePoint
+- Dashboards financeiros estilo Kanban
+- Integrações com APIs públicas, como da Receita Federal
+
+Também sou apaixonado por tecnologia, animes, boxe (🏆 campeão paranaense em 2021 🥊), e estou desenvolvendo um canal de conteúdo geek com um amigo, inspirado no Canal PeeWee.
+
+## 🚀 Em busca de oportunidades
+
+Atualmente, busco uma oportunidade de **estágio na área de TI**, onde eu possa crescer, contribuir e aprender mais com profissionais experientes.
+
+---
+
+📫 **Vamos conversar?**  
+Me chama por aqui ou entre em contato pelo LinkedIn (adicione o link, se quiser).
