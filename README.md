@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Nicolas!
 
-Sou um estudante de **Engenharia de Software** na **Faculdade Positivo** (previsão de conclusão: dezembro de 2026) e trabalho atualmente na **Alliance Home Care**, unindo tecnologia e organização para melhorar processos no setor de saúde domiciliar.
-
+Sou um estudante de **Engenharia de Software** na **Faculdade Positivo** (previsão de conclusão: dezembro de 2026) e trabalho atualmente na Escola Superior da Polícia Civil
 Com uma trajetória profissional diversa — de atendimento em hamburgueria e pizzaria até suporte administrativo e técnico — aprendi a importância da **comunicação assertiva**, **organização** e **resiliência** em ambientes dinâmicos. Hoje, aplico esses aprendizados no universo da tecnologia.
 
 ## 💻 Tecnologias e habilidades
