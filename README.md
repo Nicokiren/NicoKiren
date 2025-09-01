@@ -17,8 +17,6 @@ Com uma trajetória profissional diversa — de atendimento em hamburgueria e pi
   🧩 SharePoint  
   🧰 Git & GitHub  
 
-- **Experiência com**:  
-  - Fullstack básico  
 
 
 - **Idiomas**:  
