@@ -18,10 +18,8 @@ Com uma trajetória profissional diversa — de atendimento em hamburgueria e pi
   🧰 Git & GitHub  
 
 - **Experiência com**:  
-  - Backend básico  
-  - Automação de planilhas e dashboards  
-  - Organização de documentos em ambientes corporativos  
-  - Montagem e manutenção de hardware
+  - Fullstack básico  
+
 
 - **Idiomas**:  
   🇺🇸 Inglês fluente  
