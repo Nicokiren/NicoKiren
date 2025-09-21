@@ -9,7 +9,7 @@ Com uma trajetória profissional diversa — de atendimento em hamburgueria e pi
   🟢 C# (iniciante)  
   🟡 Java (iniciante)  
   🟠 JavaScript (básico)  
-  🔵 VBA (avançado)
+  🔵 REACT/typescript(Iniciante) 
 
 - **Ferramentas e plataformas**:  
   📊 Power BI (intermediário)  
