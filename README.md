@@ -18,8 +18,6 @@
 
 ## Sobre mim
 
-Trabalho como **Client Support Specialist na FotMarkets**, combinando atendimento ao cliente, investigação de incidentes e desenvolvimento de soluções técnicas. Curso **Engenharia de Software na Faculdade Positivo**, com conclusão prevista para dezembro de 2026.
-
 Minha atuação está concentrada em aplicações serverless na AWS, APIs REST, webhooks, processamento de eventos e automações com Python e TypeScript. Gosto de entender o problema antes de escolher a ferramenta, documentar o que foi feito e acompanhar cada demanda até uma solução clara.
 
 Tenho facilidade para analisar cenários, aprender novas tecnologias e transformar feedback em melhorias no código e na forma de trabalhar com o time.
@@ -49,26 +47,6 @@ Tenho facilidade para analisar cenários, aprender novas tecnologias e transform
 - Automações para reduzir tarefas manuais e organizar informações em ambientes corporativos
 - Ferramentas internas e melhorias de sistemas com foco em suporte, rastreabilidade e manutenção
 
-## Experiência
-
-**FotMarkets · Client Support Specialist**  
-*Jan 2026 - atual*
-
-- Atendimento e acompanhamento de solicitações relacionadas a contas e serviços
-- Investigação de incidentes, reprodução de falhas, análise de logs e documentação de evidências
-- Desenvolvimento de soluções com Python, TypeScript e serviços AWS
-
-**Escola Superior de Polícia Civil do Paraná · IT Support Intern**  
-*Jul 2025 - Abr 2026*
-
-- Desenvolvimento e manutenção de soluções internas com C#, .NET e Express.js
-- Suporte técnico a usuários, correção de falhas e automação de rotinas
-
-**Alliance Home Care Brasil · Administrative & Technology Assistant**  
-*Set 2023 - Abr 2026*
-
-- Automação de planilhas e documentos com Excel, VBA e SharePoint
-- Suporte e manutenção de computadores, controle de estoque e apoio administrativo
 
 ## Formação e aprendizado
 
